@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://iamgaurav.netlify.app/</loc>
-    <lastmod>2025-05-29</lastmod> <!--- Ideally, this should be the actual last modification date -->
-    <changefreq>monthly</changefreq> <!--- Adjust if content updates more or less frequently -->
-    <priority>1.0</priority> <!--- Main page priority -->
-  </url>
-</urlset>
